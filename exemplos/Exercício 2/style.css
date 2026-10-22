@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+}
+
+.cabecalho {
+    background-color: rgb(53, 53, 168);
+    color: white;
+    text-align: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+
+body {
+    background-color: #f0f4f9;
+    font-family: Arial;
+}
+
+.container {
+    width: 900px;
+    margin: auto;
+}
+
+.caixa {
+    background-color: white;
+    border: 1px solid gray;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #28549b;
+}
+
+p {
+    text-align: justify;
+    line-height: 1.8;
+}
+
+.galeria {
+    display: flex;
+    justify-content: center;
+}
+
+.oficina {
+    width: 220px;
+    height: 140px;
+    border: 2px solid #cccccc;
+    border-radius: 15px;
+    box-shadow: 3px 4px 8px gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 22px;
+}
+
+.html {
+    background-color: #dbe8ff;
+    color: #28549b;
+}
+
+.arduino {
+    background-color: #dcf5df;
+    color: green;
+    font-size: 32px;
+}
+
+.impressao {
+    background-color: #ffead8;
+    color: #a45a20;
+    font-size: 20px;
+}
